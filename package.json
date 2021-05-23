@@ -1,10 +1,10 @@
 {
-    "name": "@thesephist/paper.css",
+    "name": "@thenandrebass/paper.css",
     "version": "0.1.0",
     "description": "Lightweight, modern CSS to add some flair to your web-things",
     "main": "/src/paper.css",
-    "repository": "git@github.com:thesephist/paper.css.git",
-    "author": "Linus Lee <linus@thesephist.com>",
+    "repository": "git@github.com:theandrebass/paper.css.git",
+    "author": "Andre Bass <andrebassbuisness@gmail.com>",
     "license": "MIT",
     "scripts": {
         "build": "rollup --config rollup.config.js",
